@@ -1,0 +1,40 @@
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30vh;
+  margin-bottom: 30vh;
+  margin: 30vh 40vw 30vh 40vw;
+  border: 2px solid black;
+  border-radius: 20px;
+  width: 350px;
+  height: 520px;
+  background-color: gray;
+}
+
+input{
+  width: 326px;
+  height: 70px;
+  margin-bottom: 6px;
+  border-radius: 20px ;
+  font-size: 40px;
+  text-align: right;
+  outline: none;
+  background-color: antiquewhite;
+}
+
+.btn{
+  margin: 2px;
+  border-radius: 20px;
+  font-size: 20px ;
+  background-color: darkkhaki;
+
+}
+.btn:hover{
+  background-color: rgb(34, 33, 33);
+  color: aliceblue;
+}
+
+.extra{
+  margin-right: 4px;
+}
